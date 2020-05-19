@@ -72,8 +72,6 @@ You can update node/npm with this command: `npm i npm@latest -g`
 
 ---
 
----
-
 # IDE Visual Studio Code
 
 I’ll be using [Visual Studio Code](https://code.visualstudio.com/) with the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to serve html files on localhost.
