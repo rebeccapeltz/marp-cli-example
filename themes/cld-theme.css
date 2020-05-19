@@ -11,7 +11,7 @@ section {
   background-color: #FFFFFF;
 }
 
-section p,h2,h3,h4,h5,h6 {
+section p,h2,h3,h4,h5,h6,ol,ul, foreignObject {
   padding: 5px 40px;
 }
 
@@ -28,4 +28,8 @@ h1 {
 
 h2 {
   font: 40px 'Montserrat', arial;
+}
+
+footer {
+  padding: 25px;
 }
